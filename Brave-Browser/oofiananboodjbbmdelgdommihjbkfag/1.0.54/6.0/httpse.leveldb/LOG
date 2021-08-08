@@ -1,0 +1,7 @@
+2021/08/07-23:37:06.289 3cdc Recovering log #3
+2021/08/07-23:37:06.370 3cdc Level-0 table #5: started
+2021/08/07-23:37:06.421 3cdc Level-0 table #5: 2784294 bytes OK
+2021/08/07-23:37:06.425 3cdc Recovering log #17
+2021/08/07-23:37:06.429 3cdc Delete type=0 #17
+2021/08/07-23:37:06.429 3cdc Delete type=0 #3
+2021/08/07-23:37:06.429 3cdc Delete type=3 #2

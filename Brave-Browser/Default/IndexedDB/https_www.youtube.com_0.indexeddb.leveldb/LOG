@@ -1,0 +1,18 @@
+2021/08/01-23:03:55.920 3e71 Reusing MANIFEST /home/cloudjoy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/01-23:03:55.920 3e71 Recovering log #3
+2021/08/01-23:03:55.923 3e71 Reusing old log /home/cloudjoy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2021/08/01-23:03:57.616 3e72 Level-0 table #5: started
+2021/08/01-23:03:57.618 3e72 Level-0 table #5: 37862 bytes OK
+2021/08/01-23:03:57.620 3e72 Delete type=0 #3
+2021/08/01-23:03:57.620 3e72 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/08/01-23:03:58.066 3e72 Level-0 table #7: started
+2021/08/01-23:03:58.069 3e72 Level-0 table #7: 31111 bytes OK
+2021/08/01-23:03:58.071 3e72 Delete type=0 #4
+2021/08/01-23:03:58.071 3e72 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/08/01-23:03:58.071 3e72 Manual compaction at level-1 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 1503 : 1
+2021/08/01-23:03:58.071 3e72 Compacting 1@1 + 1@2 files
+2021/08/01-23:03:58.074 3e72 Generated table #8@1: 197 keys, 18871 bytes
+2021/08/01-23:03:58.074 3e72 Compacted 1@1 + 1@2 files => 18871 bytes
+2021/08/01-23:03:58.076 3e72 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/08/01-23:03:58.076 3e72 Delete type=2 #7
+2021/08/01-23:03:58.076 3e72 Manual compaction at level-1 from '\x00\x09\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 1503 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
